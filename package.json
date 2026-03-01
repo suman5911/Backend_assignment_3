@@ -1,0 +1,21 @@
+{
+  "name": "backend_assignment_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suman5911/Backend_assignment_3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/suman5911/Backend_assignment_3/issues"
+  },
+  "homepage": "https://github.com/suman5911/Backend_assignment_3#readme"
+}
