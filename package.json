@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/suman5911/Backend_assignment_3/issues"
   },
-  "homepage": "https://github.com/suman5911/Backend_assignment_3#readme"
+  "homepage": "https://github.com/suman5911/Backend_assignment_3#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
