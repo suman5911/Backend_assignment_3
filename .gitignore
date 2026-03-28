@@ -1,2 +1,6 @@
 node_modules/
 dist/
+config/serviceKey.json
+.env
+logs/
+*.log
