@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/suman5911/Backend_assignment_3#readme",
   "dependencies": {
+    "cors": "^2.8.6",
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
     "firebase-admin": "^13.7.0",
@@ -30,6 +31,7 @@
     "joi": "^18.0.2"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.19",
     "@types/express": "^5.0.6",
     "@types/jest": "^30.0.0",
     "@types/morgan": "^1.9.10",
